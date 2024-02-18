@@ -1,0 +1,142 @@
+#anchorPane {
+    -fx-background-color: linear-gradient(to bottom, #F3F8FF, #FFDFDF);
+}
+
+/* Styles for HBox */
+#hboxHeader {
+    -fx-background-color: linear-gradient(to right, rgba(5, 237, 251, 1), rgba(31, 248, 153, 1)); 
+}
+
+/* CSS Button */
+#btnMarket {
+    -fx-background-color: #000000;
+    -fx-text-fill: #c8d0da;
+}
+
+#btnBlogAndTwitter,
+#btnContrast,
+#btnHome {
+	-fx-background-color: transparent;
+    -fx-text-fill: black;
+    -fx-cursor: hand;
+}
+
+#btnBlogAndTwitter:hover,
+#btnContrast:hover,
+#btnHome:hover {
+    -fx-background-color: #000000;
+    -fx-text-fill: #c8d0da;
+    -fx-cursor: hand; 
+}
+
+/* CSS Combobox */
+.combo-box {
+	-fx-cursor: hand; 
+    -fx-font-size: 14px;
+    -fx-background-color: transparent; 
+}
+
+.combo-box .arrow {
+    -fx-background-color: #000000;
+}
+
+.combo-box .arrow-button {
+    -fx-background-color: #13f3c9;
+}
+
+.combo-box:showing .list-cell, .combo-box:hover .list-cell {
+    -fx-background-color: #000000;
+    -fx-text-fill: #13f3c9;
+}
+
+.combo-box .list-cell  {
+    -fx-background-color: #13f3c9;
+    -fx-text-fill: #000000;
+}
+
+.combo-box .list-view {
+    -fx-background-color: #000000;
+}
+
+.combo-box .list-view .list-cell {
+	-fx-cursor: hand; 
+    -fx-background-color: #000000;
+    -fx-text-fill: #c8d0da;
+}
+
+.combo-box .list-view .list-cell:hover {
+    -fx-background-color: #000000;
+    -fx-text-fill: #13f3c9; 
+}
+
+/* CSS Table - view */
+.table-view {
+    -fx-control-inner-background: linear-gradient(to bottom, #9FFFCD, #F9FFD2);
+}
+
+.table-view .column-header-background .filler {
+    -fx-background-color: transparent;
+}
+
+.table-view .corner {
+    -fx-background-color: transparent;
+}
+
+.table-view .column-header-background{
+    -fx-background-color: linear-gradient(to bottom, #1dbbdd44, #93f9b944);
+    -fx-background-radius: 7px 7px 0px 0px;
+    -fx-background-insets: 0 11px 0 0;
+    -fx-padding: 0 0 5px 0;
+}
+
+.table-view .column-header {
+    -fx-background-color: transparent;
+}
+
+.table-view .table-cell{
+	-fx-alignment: CENTER;
+    -fx-border-color: transparent;
+    -fx-padding: 2 0 2 10px;
+}
+
+.table-row-cell:odd{
+    -fx-background-color: #93f9b911;
+    -fx-background-insets: 0, 0 0 1 0;
+}
+
+.table-row-cell:even{
+    -fx-background-color: #1dbbdd11;
+    -fx-background-insets: 0, 0 0 1 0;
+}
+
+.table-view .virtual-flow .scroll-bar:vertical,
+.table-view .virtual-flow .scroll-bar:vertical .track,
+.table-view .virtual-flow .scroll-bar:vertical .track-background,
+.table-view .virtual-flow .scroll-bar:horizontal,
+.table-view .virtual-flow .scroll-bar:horizontal .track,
+.table-view .virtual-flow .scroll-bar:horizontal .track-background {
+    -fx-background-color: transparent;
+}
+
+.table-view .virtual-flow .scroll-bar .increment-button,
+.table-view .virtual-flow .scroll-bar .decrement-button {
+    -fx-opacity: 0;
+    -fx-padding: 2;
+}
+
+.table-view .virtual-flow .scroll-bar:vertical .thumb{
+    -fx-background-color:  linear-gradient(to bottom, #1dbbdd44, #93f9b944);
+}
+.table-view .virtual-flow .scroll-bar:horizontal .thumb {
+    -fx-background-color:  linear-gradient(to right, #1dbbdd44, #93f9b944);
+}
+
+.table-row-cell:selected {
+    -fx-text-background-color: red;
+}
+
+.table-row-cell:hover {
+    -fx-text-background-color: #13f3c9;
+    -fx-background-color: gray;
+}
+

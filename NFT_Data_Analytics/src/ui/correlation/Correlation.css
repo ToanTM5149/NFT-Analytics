@@ -1,0 +1,242 @@
+#anchorPane {
+    -fx-background-color: linear-gradient(to bottom, #F3F8FF, #FFDFDF);
+}
+
+/* Styles for HBox */
+#hboxHeader {
+    -fx-background-color: linear-gradient(to right, rgba(5, 237, 251, 1), rgba(31, 248, 153, 1)); 
+}
+
+/* CSS Button */
+#btnContrast {
+    -fx-background-color: #000000;
+    -fx-text-fill: #c8d0da;
+}
+
+#btnMarket,
+#btnBlogAndTwitter,
+#btnHome {
+	-fx-background-color: transparent;
+    -fx-text-fill: black;
+    -fx-cursor: hand;
+}
+
+#btnBlogAndTwitter:hover,
+#btnMarket:hover,
+#btnHome:hover {
+    -fx-background-color: #000000;
+    -fx-text-fill: #c8d0da;
+    -fx-cursor: hand; 
+}
+
+/* TableView */
+.table-view {
+    -fx-control-inner-background: linear-gradient(to bottom, #9FFFCD, #F9FFD2);
+}
+
+.table-view .column-header-background .filler {
+    -fx-background-color: transparent;
+}
+
+.table-view .corner {
+    -fx-background-color: transparent;
+}
+
+.table-view .column-header-background{
+    -fx-background-color: linear-gradient(to bottom, #1dbbdd44, #93f9b944);
+    -fx-background-radius: 7px 7px 0px 0px;
+    -fx-background-insets: 0 11px 0 0;
+    -fx-padding: 0 0 5px 0;
+}
+
+.table-view .column-header {
+    -fx-background-color: transparent;
+}
+
+.table-view .table-cell {
+    -fx-alignment: CENTER;
+    -fx-border-color: transparent;
+    -fx-padding: 2 0 2 10px;
+    -fx-text-fill: black; /* Set the text fill color to black */
+}
+
+.table-row-cell:odd{
+    -fx-background-color: #93f9b911;
+    -fx-background-insets: 0, 0 0 1 0;
+}
+
+.table-row-cell:even{
+    -fx-background-color: #1dbbdd11;
+    -fx-background-insets: 0, 0 0 1 0;
+}
+
+.table-view .virtual-flow .scroll-bar:vertical,
+.table-view .virtual-flow .scroll-bar:vertical .track,
+.table-view .virtual-flow .scroll-bar:vertical .track-background,
+.table-view .virtual-flow .scroll-bar:horizontal,
+.table-view .virtual-flow .scroll-bar:horizontal .track,
+.table-view .virtual-flow .scroll-bar:horizontal .track-background {
+    -fx-background-color: transparent;
+}
+
+.table-view .virtual-flow .scroll-bar .increment-button,
+.table-view .virtual-flow .scroll-bar .decrement-button {
+    -fx-opacity: 0;
+    -fx-padding: 2;
+}
+
+.table-view .virtual-flow .scroll-bar:vertical .thumb{
+    -fx-background-color:  linear-gradient(to bottom, #1dbbdd44, #93f9b944);
+}
+.table-view .virtual-flow .scroll-bar:horizontal .thumb {
+    -fx-background-color:  linear-gradient(to right, #1dbbdd44, #93f9b944);
+}
+
+.table-row-cell:selected {
+    -fx-text-background-color: red;
+    -fx-text-fill: white; /* Set the text fill color for selected rows */
+}
+
+.table-row-cell:hover {
+    -fx-text-background-color: #13f3c9;
+    -fx-background-color: gray;
+    -fx-text-fill: black; /* Set the text fill color for hovered rows */
+}
+
+
+#toggleButton {
+    -fx-background-color: #e74c3c; /* Màu nền */
+    -fx-text-fill: white; /* Màu chữ */
+}
+#toggleButton {
+    -fx-background-color: #e74c3c; /* Màu nền */
+    -fx-text-fill: white; /* Màu chữ */
+    -fx-font-size: 16px; /* Kích thước chữ */
+    -fx-padding: 8 16; /* Khoảng cách giữa chữ và biên nút */
+    -fx-border-radius: 5; /* Độ cong góc */
+    -fx-background-radius: 5; /* Độ cong góc của phần nền */
+    -fx-cursor: hand; /* Đổi con trỏ chuột khi di chuyển qua nút */
+}
+
+#toggleButton:hover {
+    -fx-background-color: #c0392b; /* Màu nền khi di chuột vào */
+}
+
+#toggleButton:pressed {
+    -fx-background-color: #922b21; /* Màu nền khi nút được nhấn */
+}
+#searchButton {
+    -fx-background-color: #3498db; /* Màu nền */
+    -fx-text-fill: white; /* Màu chữ */
+    -fx-font-size: 16px; /* Kích thước chữ */
+    -fx-padding: 8 16; /* Khoảng cách giữa chữ và biên nút */
+    -fx-border-radius: 5; /* Độ cong góc */
+    -fx-background-radius: 5; /* Độ cong góc của phần nền */
+    -fx-cursor: hand; /* Đổi con trỏ chuột khi di chuyển qua nút */
+}
+
+#searchButton:hover {
+    -fx-background-color: #2980b9; /* Màu nền khi di chuột vào */
+}
+
+#searchButton:pressed {
+    -fx-background-color: #1f618d; /* Màu nền khi nút được nhấn */
+}
+#searchTextField {
+    -fx-background-color: #ecf0f1; /* Màu nền */
+    -fx-text-fill: #2c3e50; /* Màu chữ */
+    -fx-font-size: 16px; /* Kích thước chữ */
+    -fx-padding: 8 12; /* Khoảng cách giữa chữ và biên TextField */
+    -fx-border-color: #bdc3c7; /* Màu viền */
+    -fx-border-width: 1; /* Độ rộng viền */
+    -fx-border-radius: 5; /* Độ cong góc */
+    -fx-background-radius: 5; /* Độ cong góc của phần nền */
+    -fx-cursor: text; /* Đổi con trỏ chuột khi di chuyển vào TextField */
+}
+
+#searchTextField:hover {
+    -fx-border-color: #7f8c8d; /* Màu viền khi di chuột vào */
+}
+
+#searchTextField:focused {
+    -fx-border-color: #3498db; /* Màu viền khi ô TextField được focus */
+    -fx-background-color: white; /* Màu nền khi ô TextField được focus */
+}
+/* Styles for Tweet VBox */
+#tweetVBox {
+    -fx-padding: 10; /* Add padding to the VBox */
+}
+
+.tweet-box {
+    -fx-background-color: #ffffff; /* Set background color for each tweet box */
+    -fx-border-color: #cccccc; /* Set border color */
+    -fx-border-width: 1; /* Set border width */
+    -fx-border-radius: 5; /* Set border radius */
+    -fx-padding: 10; /* Add padding to each tweet box */
+    -fx-spacing: 5; /* Set spacing between child nodes (e.g., author and content) */
+}
+
+.tweet-author {
+    -fx-font-weight: bold; /* Make the author label bold */
+    -fx-text-fill: #3498db; /* Set text color for the author label */
+}
+
+.tweet-content {
+    -fx-text-fill: #555555; /* Set text color for the tweet content */
+    -fx-wrap-text: true; /* Enable text wrapping */
+}
+.tab-pane .tab-header-background {
+    -fx-background-color: linear-gradient(to right, rgba(5, 237, 251, 1), rgba(31, 248, 153, 1));
+}
+.tab-pane .tab:selected {
+    -fx-background-color: linear-gradient(to bottom, #F3F8FF, #FFDFDD);
+    -fx-text-fill: yellow;
+}
+.tab-pane {
+    -fx-border-color: linear-gradient(to right, rgba(5, 237, 251, 1), rgba(31, 248, 153, 1)); 
+    -fx-border-width: 2px; 
+    -fx-border-radius: 5px; 
+}
+
+.tagsBox {
+	-fx-border-color: linear-gradient(to right, rgba(5, 237, 251, 1), rgba(31, 248, 153, 1)); 
+    -fx-border-width: 2px; 
+    -fx-border-radius: 5px;
+}
+
+.tab {
+    -fx-background-radius: 8 8 0 0;
+    -fx-padding: 5 10 5 10;
+    -fx-background-color: transparent;
+    -fx-text-fill: Black;
+}
+
+.tab .tab-label { 
+    -fx-alignment: CENTER;
+    -fx-text-fill: black;
+    -fx-font-size: 12px;
+    -fx-font-weight: bold;
+   	-fx-background-color: transparent;
+   	
+}
+.tab:selected .tab-label { 
+    -fx-alignment: CENTER;
+    -fx-text-fill: #13f3c9;    
+}
+
+.tab-pane .tab:selected
+{
+    -fx-background-color: black;
+}
+
+#searchButton {
+    -fx-background-color: linear-gradient(to right, rgba(5, 237, 251, 1), rgba(31, 248, 153, 1));
+    -fx-text-fill: black; 
+}
+
+.tab-pane .tab-content-area {
+    -fx-background-color: #ffffff; /* Background color of the content area */
+    -fx-padding: 10px; /* Padding inside the content area */
+    -fx-border-radius: 50%; /* Border width of the content area */
+}
+

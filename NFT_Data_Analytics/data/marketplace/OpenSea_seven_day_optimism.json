@@ -1,0 +1,174 @@
+{
+  "marketplaceName": "OpenSea",
+  "createdAt": "12/01/2024",
+  "chain": "optimism",
+  "period": "seven_day",
+  "currency": "ETH",
+  "data": [
+    {
+      "id": "Q29sbGVjdGlvblR5cGU6MTkzMDA2OTY=",
+      "logo": "https://i.seadn.io/gcs/files/db6d5c5c315b1d05480a52cc848c3d73.png?w=500&auto=format",
+      "name": "OptiChads 🔴✨💪",
+      "volume": 0.9968999999999995,
+      "volumeChange": -0.46970245035874436,
+      "floorPrice": 0.0144,
+      "floorPriceChange": 0.0,
+      "items": 9974,
+      "owners": 2929
+    },
+    {
+      "id": "Q29sbGVjdGlvblR5cGU6MjAzNDAxMDA=",
+      "logo": "https://i.seadn.io/gcs/files/0f5da4b288ba5a9baf08d3dfae287ad9.gif?w=500&auto=format",
+      "name": "Optimism Quests",
+      "volume": 0.059620038000000014,
+      "volumeChange": -0.8063110598512422,
+      "floorPrice": 3.378E-4,
+      "floorPriceChange": 0.0,
+      "items": 3414878,
+      "owners": 400811
+    },
+    {
+      "id": "Q29sbGVjdGlvblR5cGU6MjM3MDA5NDE=",
+      "logo": "https://i.seadn.io/gcs/files/ae970c06d967592821842c1845a7b2de.jpg?w=500&auto=format",
+      "name": "Optimism Name Service",
+      "volume": 0.051379000000000036,
+      "volumeChange": 106.03958333333341,
+      "floorPrice": 0.0013,
+      "floorPriceChange": 0.0,
+      "items": 24324,
+      "owners": 11823
+    },
+    {
+      "id": "Q29sbGVjdGlvblR5cGU6MjE2NzE4ODM=",
+      "logo": "https://i.seadn.io/gcs/files/c8a0d27f3275d3cea49968b23c6121d8.png?w=500&auto=format",
+      "name": "Optimism Ape Yacht Club",
+      "volume": 0.17937000000000003,
+      "volumeChange": -0.47749868187630906,
+      "floorPrice": 0.0098,
+      "floorPriceChange": 0.0,
+      "items": 9980,
+      "owners": 2641
+    },
+    {
+      "id": "Q29sbGVjdGlvblR5cGU6MTkzMTA4MDY=",
+      "logo": "https://i.seadn.io/gcs/files/f54b92ea8ef6d1a9a39be6ae755ea0f1.webp?w=500&auto=format",
+      "name": "motorheadz",
+      "volume": 0.30056000000000005,
+      "volumeChange": 0.044699339589850666,
+      "floorPrice": 0.0225,
+      "floorPriceChange": 0.0,
+      "items": 4320,
+      "owners": 2090
+    },
+    {
+      "id": "Q29sbGVjdGlvblR5cGU6MTkzMDI1Mjc=",
+      "logo": "https://i.seadn.io/gcs/files/b34a680b9e09d7643f448635723f707f.gif?w=500&auto=format",
+      "name": "OptiPunks",
+      "volume": 0.20648,
+      "volumeChange": 2.03201174743025,
+      "floorPrice": 0.0175,
+      "floorPriceChange": 0.0,
+      "items": 10000,
+      "owners": 3037
+    },
+    {
+      "id": "Q29sbGVjdGlvblR5cGU6MTk3MTc2OTA=",
+      "logo": "https://i.seadn.io/gcs/files/76c302e96e91e1c0808026003406b34e.webp?w=500&auto=format",
+      "name": "Early Optimists",
+      "volume": 0.027499999999989998,
+      "volumeChange": 8.482758620686207,
+      "floorPrice": 0.0053,
+      "floorPriceChange": 0.0,
+      "items": 22124,
+      "owners": 20817
+    },
+    {
+      "id": "Q29sbGVjdGlvblR5cGU6MTkzMDA3NTY=",
+      "logo": "https://i.seadn.io/gcs/files/5be30d4b44084b73f6a2abfe737ec087.gif?w=500&auto=format",
+      "name": "Bored Town",
+      "volume": 0.08958,
+      "volumeChange": 0.3847580769825322,
+      "floorPrice": 0.01484,
+      "floorPriceChange": 0.0,
+      "items": 5553,
+      "owners": 3936
+    },
+    {
+      "id": "Q29sbGVjdGlvblR5cGU6MTkzMTczNDY=",
+      "logo": "https://i.seadn.io/gcs/files/d469176edec3070ded21ffca99ea9817.gif?w=500&auto=format",
+      "name": "Apetimism",
+      "volume": 0.054400000000000004,
+      "volumeChange": -0.41505376344086026,
+      "floorPrice": 0.024,
+      "floorPriceChange": 0.0,
+      "items": 3999,
+      "owners": 1649
+    },
+    {
+      "id": "Q29sbGVjdGlvblR5cGU6MTkyOTkwMDA=",
+      "logo": "https://i.seadn.io/gcs/files/a2eba3fd5f3a4de3787aec1c3c18f88e.webp?w=500&auto=format",
+      "name": "Goblin Town Hero",
+      "volume": 0.005500000000000001,
+      "volumeChange": -0.8090277777777778,
+      "floorPrice": 0.00389,
+      "floorPriceChange": 0.0,
+      "items": 3332,
+      "owners": 1912
+    },
+    {
+      "id": "Q29sbGVjdGlvblR5cGU6MTkzNTMyNTg=",
+      "logo": "https://i.seadn.io/gcs/files/2a9424fc1d962638ab331cd32b34bd82.gif?w=500&auto=format",
+      "name": "Optimistic Bunnies",
+      "volume": 0.00769,
+      "volumeChange": -0.6675313445741461,
+      "floorPrice": 0.00417,
+      "floorPriceChange": 0.0,
+      "items": 4028,
+      "owners": 2492
+    },
+    {
+      "id": "Q29sbGVjdGlvblR5cGU6MjM4MDg1Nzk=",
+      "logo": "https://i.seadn.io/gcs/files/1a76096d81112c6db504722d43f9f340.png?w=500&auto=format",
+      "name": "HyperChads",
+      "volume": 0.0,
+      "volumeChange": 0.0,
+      "floorPrice": 0.0098,
+      "floorPriceChange": 0.0,
+      "items": 313,
+      "owners": 309
+    },
+    {
+      "id": "Q29sbGVjdGlvblR5cGU6MzA3NDE0MjM=",
+      "logo": "https://i.seadn.io/s/raw/files/57e8fae28ca9da8e22d3b420cbf4ed99.png?w=500&auto=format",
+      "name": "Aethernity Genesis Quest",
+      "volume": 0.0,
+      "volumeChange": 0.0,
+      "floorPrice": 1.0,
+      "floorPriceChange": 0.0,
+      "items": 37,
+      "owners": 37
+    },
+    {
+      "id": "Q29sbGVjdGlvblR5cGU6Mjk0NTY1OTM=",
+      "logo": "https://i.seadn.io/gcs/files/68b9c016867dd6928dc03bebaedef6c1.gif?w=500&auto=format",
+      "name": "KAIJU ORIGINS: The Journals of Stod - Cassette",
+      "volume": 0.0,
+      "volumeChange": 0.0,
+      "floorPrice": 0.0,
+      "floorPriceChange": 0.0,
+      "items": 6,
+      "owners": 93
+    },
+    {
+      "id": "Q29sbGVjdGlvblR5cGU6MTkzMzQyNTk=",
+      "logo": "https://i.seadn.io/gae/ZoC0EZPOaQeMGdAmqXh-PbOqEdrINf37NnD7wxI8FRa0Ymt8corMCzOP0xMPXjx2P12cvB6pDLWWnPSFJ1cOwbjqZc2_c3haN3n_8A?w=500&auto=format",
+      "name": "tiny dinos - (optimism)",
+      "volume": 0.0,
+      "volumeChange": 0.0,
+      "floorPrice": 0.0,
+      "floorPriceChange": 0.0,
+      "items": 85,
+      "owners": 49
+    }
+  ]
+}

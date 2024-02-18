@@ -1,0 +1,240 @@
+{
+  "marketplaceName": "Binance",
+  "createdAt": "12/01/2024",
+  "chain": "BTC",
+  "period": "24H",
+  "currency": "BTC",
+  "data": [
+    {
+      "id": "718120215278723072",
+      "logo": "https://public.nftstatic.com/static/nft/res/6d29b3b8bc4f449ba4a6d93ba8319647.png",
+      "name": "Block Legends",
+      "volume": 1170.482,
+      "volumeChange": -58.17,
+      "floorPrice": 77.9,
+      "floorPriceChange": 21.72,
+      "items": 10000,
+      "owners": 10000
+    },
+    {
+      "id": "715521758816337920",
+      "logo": "https://public.nftstatic.com/static/nft/res/00427ad23df541d8a6e71d69cc4c4d23.gif",
+      "name": "PixelBirds Sparrow",
+      "volume": 0.0,
+      "volumeChange": 0.0,
+      "floorPrice": 0.0,
+      "floorPriceChange": 0.0,
+      "items": 1099,
+      "owners": 1099
+    },
+    {
+      "id": "715931700073189376",
+      "logo": "https://public.nftstatic.com/static/nft/res/731d5fc780e04808b916fd6b667a5ed5.gif",
+      "name": "Neo Yauto",
+      "volume": 0.0,
+      "volumeChange": 0.0,
+      "floorPrice": 100.0,
+      "floorPriceChange": 0.0,
+      "items": 7918,
+      "owners": 7918
+    },
+    {
+      "id": "715932370036391936",
+      "logo": "https://public.nftstatic.com/static/nft/res/26284cc31b224b5e8f58e84c6f48396c.png",
+      "name": "OG Cartridge",
+      "volume": 0.0,
+      "volumeChange": 0.0,
+      "floorPrice": 0.0,
+      "floorPriceChange": 0.0,
+      "items": 105,
+      "owners": 105
+    },
+    {
+      "id": "715933255525269504",
+      "logo": "https://public.nftstatic.com/static/nft/res/9a0f584b82b14bad932b9eb4932d37ff.png",
+      "name": "Bitcoin Pizzas",
+      "volume": 0.0,
+      "volumeChange": 0.0,
+      "floorPrice": 1990.0,
+      "floorPriceChange": 0.0,
+      "items": 522,
+      "owners": 522
+    },
+    {
+      "id": "715935044614991872",
+      "logo": "https://public.nftstatic.com/static/nft/res/df60cfa384844e9ba4dafecc5c975d86.png",
+      "name": "DogePunks",
+      "volume": 0.0,
+      "volumeChange": 0.0,
+      "floorPrice": 885.73,
+      "floorPriceChange": 0.0,
+      "items": 10000,
+      "owners": 10000
+    },
+    {
+      "id": "715937890471591936",
+      "logo": "https://public.nftstatic.com/static/nft/res/d7e2a76177ef4d2fab6d350465bbde93.png",
+      "name": "NPC Ordinals",
+      "volume": 0.0,
+      "volumeChange": 0.0,
+      "floorPrice": 199.04,
+      "floorPriceChange": -0.48,
+      "items": 10000,
+      "owners": 10000
+    },
+    {
+      "id": "715938309322878976",
+      "logo": "https://public.nftstatic.com/static/nft/res/edfb3b20a0964fbfaa81dcd9a245f534.png",
+      "name": "JOMOHippo",
+      "volume": 0.0,
+      "volumeChange": 0.0,
+      "floorPrice": 1300.0,
+      "floorPriceChange": 225.81,
+      "items": 2600,
+      "owners": 2600
+    },
+    {
+      "id": "715938883870789632",
+      "logo": "https://public.nftstatic.com/static/nft/res/33686465a2614523a60fc29406ac2612.png",
+      "name": "Bitcoin Punks",
+      "volume": 0.0,
+      "volumeChange": 0.0,
+      "floorPrice": 0.0,
+      "floorPriceChange": 0.0,
+      "items": 10000,
+      "owners": 10000
+    },
+    {
+      "id": "715939293550313472",
+      "logo": "https://public.nftstatic.com/static/nft/res/025f3954edcd48fab8a5a49889856eeb.png",
+      "name": "Bitcoin Frogs",
+      "volume": 0.0,
+      "volumeChange": 0.0,
+      "floorPrice": 70975.27,
+      "floorPriceChange": 0.0,
+      "items": 10000,
+      "owners": 10000
+    },
+    {
+      "id": "715940132368613376",
+      "logo": "https://public.nftstatic.com/static/nft/res/e1aed6d5583c475caf3dbcb3a558e789.png",
+      "name": "BTC Machine",
+      "volume": 0.0,
+      "volumeChange": 0.0,
+      "floorPrice": 0.0,
+      "floorPriceChange": 0.0,
+      "items": 777,
+      "owners": 777
+    },
+    {
+      "id": "715942231314866176",
+      "logo": "https://public.nftstatic.com/static/nft/res/fff2853d6d3a4474b2f1069feb7773be.jpeg",
+      "name": "Bitcoin Bandits",
+      "volume": 0.0,
+      "volumeChange": 0.0,
+      "floorPrice": 0.0,
+      "floorPriceChange": 0.0,
+      "items": 512,
+      "owners": 512
+    },
+    {
+      "id": "716243144666857472",
+      "logo": "https://public.nftstatic.com/static/nft/res/76a770f93a8e466e92842062cfc5071a.png",
+      "name": "Bitcoin Wizards",
+      "volume": 0.0,
+      "volumeChange": 0.0,
+      "floorPrice": 0.0,
+      "floorPriceChange": 0.0,
+      "items": 1337,
+      "owners": 1337
+    },
+    {
+      "id": "716243871775342592",
+      "logo": "https://public.nftstatic.com/static/nft/res/7a47d90116e8422c90110a6072e436a2.jpeg",
+      "name": "Inscribed Pepes",
+      "volume": 0.0,
+      "volumeChange": 0.0,
+      "floorPrice": 0.0,
+      "floorPriceChange": 0.0,
+      "items": 69,
+      "owners": 69
+    },
+    {
+      "id": "716245006834663424",
+      "logo": "https://public.nftstatic.com/static/nft/res/9108fd3cb4734dbe97df000ff33ad3a1.png",
+      "name": "Nakamoto Whales",
+      "volume": 0.0,
+      "volumeChange": 0.0,
+      "floorPrice": 2908.09,
+      "floorPriceChange": 0.0,
+      "items": 788,
+      "owners": 788
+    },
+    {
+      "id": "716245531038822400",
+      "logo": "https://public.nftstatic.com/static/nft/res/823d10cfc769486791e551e3ffe9f751.jpeg",
+      "name": "BTC DeGods",
+      "volume": 0.0,
+      "volumeChange": 0.0,
+      "floorPrice": 0.0,
+      "floorPriceChange": 0.0,
+      "items": 535,
+      "owners": 535
+    },
+    {
+      "id": "716246147256565760",
+      "logo": "https://public.nftstatic.com/static/nft/res/5013e9d21a584a51a89997bedab08bd0.png",
+      "name": "Satoshi Monkey Business",
+      "volume": 0.0,
+      "volumeChange": 0.0,
+      "floorPrice": 0.0,
+      "floorPriceChange": 0.0,
+      "items": 42,
+      "owners": 42
+    },
+    {
+      "id": "716604729071955968",
+      "logo": "https://public.nftstatic.com/static/nft/res/5cdca00a0fda4b3ab3d2da3cf2598d2d.jpeg",
+      "name": "Clay Pepes",
+      "volume": 0.0,
+      "volumeChange": 0.0,
+      "floorPrice": 3462.46,
+      "floorPriceChange": -1.8,
+      "items": 3000,
+      "owners": 3000
+    },
+    {
+      "id": "718082359797649408",
+      "logo": "https://public.nftstatic.com/static/nft/res/5eac3c1fae504189a0dc4f4d9fb58ad5.png",
+      "name": "Block Munchers",
+      "volume": 0.0,
+      "volumeChange": 0.0,
+      "floorPrice": 0.0,
+      "floorPriceChange": 0.0,
+      "items": 50,
+      "owners": 50
+    },
+    {
+      "id": "718108475186909184",
+      "logo": "https://public.nftstatic.com/static/nft/res/fb6f2d4c5aac45d4a97b624c86af8c24.png",
+      "name": "Pixel Pepes",
+      "volume": 0.0,
+      "volumeChange": 0.0,
+      "floorPrice": 5000.0,
+      "floorPriceChange": 0.0,
+      "items": 1563,
+      "owners": 1563
+    },
+    {
+      "id": "718242952615546880",
+      "logo": "https://public.nftstatic.com/static/nft/res/04c7f9bfc4624c24a4e593a608d0be4e.gif",
+      "name": "Ordz Heroes",
+      "volume": 0.0,
+      "volumeChange": 0.0,
+      "floorPrice": 0.0,
+      "floorPriceChange": 0.0,
+      "items": 3333,
+      "owners": 3333
+    }
+  ]
+}

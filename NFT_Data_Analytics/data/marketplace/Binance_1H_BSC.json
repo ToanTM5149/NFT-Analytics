@@ -1,0 +1,141 @@
+{
+  "marketplaceName": "Binance",
+  "createdAt": "12/01/2024",
+  "chain": "BSC",
+  "period": "1H",
+  "currency": "BSC",
+  "data": [
+    {
+      "id": "753770820135309313",
+      "logo": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1694477256483_uhqm3lxlpji6zybii8m38s1ktmsembnu.gif",
+      "name": "Metaverse Ape Yacht Club",
+      "volume": 314.013,
+      "volumeChange": -43.4,
+      "floorPrice": 22.0,
+      "floorPriceChange": 0.0,
+      "items": 400,
+      "owners": 400
+    },
+    {
+      "id": "692959699477970944",
+      "logo": "https://public.nftstatic.com/static/nft/res/c5a578c386684132a36d17e5c3735df0.png",
+      "name": "Alpine Race Collectibles",
+      "volume": 0.71,
+      "volumeChange": -40.34,
+      "floorPrice": 0.16,
+      "floorPriceChange": 0.0,
+      "items": 144000,
+      "owners": 144000
+    },
+    {
+      "id": "155550252651737088",
+      "logo": "https://public.nftstatic.com/static/nft/res/8a3d06acfc3942f0a76c573853daf625.jpeg",
+      "name": "RARA MetaForest Mining Farm",
+      "volume": 4.5,
+      "volumeChange": 0.0,
+      "floorPrice": 0.41,
+      "floorPriceChange": 0.0,
+      "items": 22000,
+      "owners": 22000
+    },
+    {
+      "id": "571223101530402817",
+      "logo": "https://public.nftstatic.com/static/nft/res/9b59f48f81d04cbbbacff707e43b9410.jpeg",
+      "name": "Proud Kitty Gang",
+      "volume": 46.6439,
+      "volumeChange": 0.0,
+      "floorPrice": 30.88,
+      "floorPriceChange": 0.29,
+      "items": 4966,
+      "owners": 4966
+    },
+    {
+      "id": "635894633985794049",
+      "logo": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1666373676071_4fk24ml3nrt34uegihcq6zbu40n7aq4d.jpeg",
+      "name": "Original gold coins with animals",
+      "volume": 0.5,
+      "volumeChange": -90.0,
+      "floorPrice": 0.5,
+      "floorPriceChange": 0.0,
+      "items": 47,
+      "owners": 47
+    },
+    {
+      "id": "407802751394464768",
+      "logo": "https://public.nftstatic.com/static/nft/res/c5c23ecbddc545348090905147dfb4ad.png",
+      "name": "The CR7 ForeverZone Box",
+      "volume": 0.32,
+      "volumeChange": 0.0,
+      "floorPrice": 0.34,
+      "floorPriceChange": 6.25,
+      "items": 50000,
+      "owners": 50000
+    },
+    {
+      "id": "146990100449165312",
+      "logo": "https://public.nftstatic.com/static/nft/res/6e6a8da98b6f41fbaa544869cbf119d4.png",
+      "name": "Lucky Duckies Originals",
+      "volume": 55.0,
+      "volumeChange": 0.0,
+      "floorPrice": 1.66,
+      "floorPriceChange": 0.0,
+      "items": 25000,
+      "owners": 25000
+    },
+    {
+      "id": "783394728618848256",
+      "logo": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1701537842496_von10c5o60paba24gzttimn0nlimmbjz.gif",
+      "name": "Metaverse Skull Yacht Club",
+      "volume": 9.9,
+      "volumeChange": -94.8,
+      "floorPrice": 9.9,
+      "floorPriceChange": 0.0,
+      "items": 140,
+      "owners": 140
+    },
+    {
+      "id": "631864526076977152",
+      "logo": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1665411618672_auux1sgyaaqz8vxzopodxsgtx990wzdt.jpeg",
+      "name": "unusual cat",
+      "volume": 0.5,
+      "volumeChange": 0.0,
+      "floorPrice": 1.0,
+      "floorPriceChange": 100.0,
+      "items": 39,
+      "owners": 39
+    },
+    {
+      "id": "791272359141376000",
+      "logo": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1703417707724_go9ilozlm6brqqo6zmmkpr5248ro89px.gif",
+      "name": "Hyper Ape Yacht Club",
+      "volume": 23.1,
+      "volumeChange": 0.0,
+      "floorPrice": 23.1,
+      "floorPriceChange": 0.0,
+      "items": 57,
+      "owners": 57
+    },
+    {
+      "id": "137783585246693376",
+      "logo": "https://public.nftstatic.com/static/nft/res/38cf6a5ee52c4be9992e252d32e15cac.jpeg",
+      "name": "KHL Mystery Box",
+      "volume": 2.5,
+      "volumeChange": 0.0,
+      "floorPrice": 4.0,
+      "floorPriceChange": 0.0,
+      "items": 20000,
+      "owners": 20000
+    },
+    {
+      "id": "747520513872703488",
+      "logo": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1699442961647_bapqxbfaxc8nrt3wkvlvcxllgdleokgy.gif",
+      "name": "Anime Warrior",
+      "volume": 18.9,
+      "volumeChange": 0.0,
+      "floorPrice": 17.75,
+      "floorPriceChange": 0.0,
+      "items": 380,
+      "owners": 380
+    }
+  ]
+}

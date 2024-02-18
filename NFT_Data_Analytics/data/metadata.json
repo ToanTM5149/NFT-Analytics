@@ -1,0 +1,100 @@
+[
+  {
+    "name": "OpenSea",
+    "chainList": [
+      "arbitrum",
+      "avalanche",
+      "base",
+      "klaytn",
+      "optimism",
+      "matic",
+      "zora",
+      "BSC",
+      "ethereum"
+    ],
+    "periodNameToParam": [
+      {
+        "name": "One Hour",
+        "param": "one_hour"
+      },
+      {
+        "name": "Six Hours",
+        "param": "six_hour"
+      },
+      {
+        "name": "One Day",
+        "param": "one_day"
+      },
+      {
+        "name": "One Week",
+        "param": "seven_day"
+      },
+      {
+        "name": "One Month",
+        "param": "thirty_day"
+      }
+    ]
+  },
+  {
+    "name": "Binance",
+    "chainList": ["ALL", "BSC", "ETH", "BTC"],
+    "periodNameToParam": [
+      {
+        "name": "One Hour",
+        "param": "1H"
+      },
+      {
+        "name": "Six Hours",
+        "param": "6H"
+      },
+      {
+        "name": "One Day",
+        "param": "24H"
+      },
+      {
+        "name": "One Week",
+        "param": "7D"
+      }
+    ]
+  },
+  {
+    "name": "Rarible",
+    "chainList": ["IMMUTABLEX", "TEZOS", "ETHEREUM", "POLYGON"],
+    "periodNameToParam": [
+      {
+        "name": "One Hour",
+        "param": "H1"
+      },
+      {
+        "name": "One Day",
+        "param": "DAY"
+      },
+      {
+        "name": "One Week",
+        "param": "WEEK"
+      },
+      {
+        "name": "One Month",
+        "param": "MONTH"
+      }
+    ]
+  },
+  {
+    "name": "Nifty Gateway",
+    "chainList": ["ETH", "USD"],
+    "periodNameToParam": [
+      {
+        "name": "One Day",
+        "param": "one_day_total_volume"
+      },
+      {
+        "name": "One Week",
+        "param": "seven_day_total_volume"
+      },
+      {
+        "name": "One Month",
+        "param": "thirty_day_total_volume"
+      }
+    ]
+  }
+]

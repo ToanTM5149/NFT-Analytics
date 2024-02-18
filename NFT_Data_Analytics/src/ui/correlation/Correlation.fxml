@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Pagination?>
+<?import javafx.scene.control.Tab?>
+<?import javafx.scene.control.TabPane?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.shape.SVGPath?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane fx:id="anchorPane" maxHeight="-Infinity"
+	maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity"
+	prefHeight="600.0" prefWidth="1000.0" stylesheets="@Correlation.css"
+	xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1"
+	fx:controller="ui.correlation.CorrelationController">
+	<children>
+		<HBox fx:id="hboxHeader" alignment="CENTER" cacheShape="false"
+			prefHeight="50.0" prefWidth="1000.0">
+			<children>
+				<Button fx:id="btnHome" alignment="CENTER"
+					contentDisplay="CENTER" mnemonicParsing="false"
+					onAction="#switchToHome" prefHeight="50.0" prefWidth="133.0"
+					text="HOME" textFill="WHITE">
+					<font>
+						<Font name="System Bold" size="20.0" />
+					</font>
+				</Button>
+				<Button fx:id="btnMarket" alignment="CENTER"
+					lineSpacing="10.0" mnemonicParsing="false"
+					onAction="#switchToSceneMarketplace" prefHeight="50.0"
+					prefWidth="299.0" text="MARKETPLACE" textFill="WHITE">
+					<font>
+						<Font name="System Bold" size="20.0" />
+					</font>
+					<graphic>
+						<SVGPath
+							content="M2.97 1.35A1 1 0 0 1 3.73 1h8.54a1 1 0 0 1 .76.35l2.609 3.044A1.5 1.5 0 0 1 16 5.37v.255a2.375 2.375 0 0 1-4.25 1.458A2.371 2.371 0 0 1 9.875 8 2.37 2.37 0 0 1 8 7.083 2.37 2.37 0 0 1 6.125 8a2.37 2.37 0 0 1-1.875-.917A2.375 2.375 0 0 1 0 5.625V5.37a1.5 1.5 0 0 1 .361-.976l2.61-3.045zm1.78 4.275a1.375 1.375 0 0 0 2.75 0 .5.5 0 0 1 1 0 1.375 1.375 0 0 0 2.75 0 .5.5 0 0 1 1 0 1.375 1.375 0 1 0 2.75 0V5.37a.5.5 0 0 0-.12-.325L12.27 2H3.73L1.12 5.045A.5.5 0 0 0 1 5.37v.255a1.375 1.375 0 0 0 2.75 0 .5.5 0 0 1 1 0M1.5 8.5A.5.5 0 0 1 2 9v6h1v-5a1 1 0 0 1 1-1h3a1 1 0 0 1 1 1v5h6V9a.5.5 0 0 1 1 0v6h.5a.5.5 0 0 1 0 1H.5a.5.5 0 0 1 0-1H1V9a.5.5 0 0 1 .5-.5M4 15h3v-5H4zm5-5a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-2a1 1 0 0 1-1-1zm3 0h-2v3h2z"
+							fill="#6e7072" translateX="-10.0" />
+					</graphic>
+				</Button>
+				<Button fx:id="btnBlogAndTwitter" alignment="CENTER"
+					mnemonicParsing="false" onAction="#switchToSceneBlogAndTwitter"
+					prefHeight="50.0" prefWidth="350.0" text="BLOG AND TWITTER"
+					textFill="WHITE">
+					<font>
+						<Font name="System Bold" size="20.0" />
+					</font>
+					<graphic>
+						<SVGPath
+							content="M5.026 15c6.038 0 9.341-5.003 9.341-9.334 0-.14 0-.282-.006-.422A6.685 6.685 0 0 0 16 3.542a6.658 6.658 0 0 1-1.889.518 3.301 3.301 0 0 0 1.447-1.817 6.533 6.533 0 0 1-2.087.793A3.286 3.286 0 0 0 7.875 6.03a9.325 9.325 0 0 1-6.767-3.429 3.289 3.289 0 0 0 1.018 4.382A3.323 3.323 0 0 1 .64 6.575v.045a3.288 3.288 0 0 0 2.632 3.218 3.203 3.203 0 0 1-.865.115 3.23 3.23 0 0 1-.614-.057 3.283 3.283 0 0 0 3.067 2.277A6.588 6.588 0 0 1 .78 13.58a6.32 6.32 0 0 1-.78-.045A9.344 9.344 0 0 0 5.026 15"
+							fill="#6e7072" translateX="-10.0" />
+					</graphic>
+				</Button>
+				<Button fx:id="btnContrast" alignment="CENTER"
+					mnemonicParsing="false" prefHeight="50.0" prefWidth="350.0"
+					text="CORRELATION" textFill="WHITE">
+					<font>
+						<Font name="System Bold" size="20.0" />
+					</font>
+					<graphic>
+						<SVGPath
+							content="M16 8A8 8 0 1 0 0 8a8 8 0 0 0 16 0m-8 5v1H4.5a.502.502 0 0 0-.093.009A7.029 7.029 0 0 1 3.1 13zm0-1H2.255a6.998 6.998 0 0 1-.581-1H8zm-6.71-2a6.96 6.96 0 0 1-.22-1H8v1zM1 8c0-.34.024-.673.07-1H8v1zm.29-2c.103-.345.231-.68.384-1H8v1zm.965-2c.25-.36.534-.694.846-1H8v1zm2.137-2A6.967 6.967 0 0 1 8 1v1z"
+							fill="#6e7072" translateX="-10.0" />
+					</graphic>
+				</Button>
+			</children>
+		</HBox>
+		<Button fx:id="searchButton" layoutX="539.0" layoutY="90.0"
+			mnemonicParsing="false" onAction="#handleSearchButton" text="Search" />
+
+		<TableView fx:id="tableView" editable="true" layoutX="14.0"
+			layoutY="169.0" prefHeight="407.0" prefWidth="354.0">
+			<columns>
+				<TableColumn fx:id="columnNumber" prefWidth="42"
+					text="#" />
+				<TableColumn fx:id="columnLogo" prefWidth="100"
+					text="Logo" />
+				<TableColumn fx:id="columnName" prefWidth="100"
+					text="Name" />
+				<TableColumn fx:id="columnVolume" prefWidth="100"
+					text="Volume" />
+				<TableColumn fx:id="columnVolumeChange" prefWidth="150"
+					text="Volume &#10;Change" />
+				<TableColumn fx:id="columnFloorPrice" prefWidth="100"
+					text="Floor &#10;Price" />
+				<TableColumn fx:id="columnFloorPriceChange"
+					prefWidth="120" text="Floor Price &#10;Change" />
+				<TableColumn fx:id="columnItems" prefWidth="75.0"
+					text="Items" />
+				<TableColumn fx:id="columnOwners" prefWidth="80"
+					text="Owners" />
+				<TableColumn fx:id="columnCurrency" prefWidth="80"
+					text="Currency" />
+				<TableColumn fx:id="columnChain"
+					prefWidth="83.2000732421875" text="Chain" />
+				<TableColumn fx:id="columnPeriod" minWidth="0.0"
+					prefWidth="66.39990234375" text="Period" />
+				<TableColumn fx:id="columnMarketplaceName"
+					prefWidth="80.7999267578125" text="Marketplace&#10;Name" />
+			</columns>
+			<columnResizePolicy>
+				<TableView fx:constant="UNCONSTRAINED_RESIZE_POLICY" />
+			</columnResizePolicy>
+
+		</TableView>
+
+
+		<TextField fx:id="searchTextField" layoutX="241.0"
+			layoutY="89.0" />
+		<TabPane fx:id="resultPane" layoutX="447.0" layoutY="170.0"
+			prefHeight="407.0" prefWidth="538.0" tabClosingPolicy="UNAVAILABLE">
+			<tabs>
+				<Tab fx:id="twitterTab" text="Tweet">
+					<content>
+						<AnchorPane fx:id="tabAnchor" minHeight="0.0"
+							minWidth="0.0" prefHeight="296.0" prefWidth="538.0">
+							<children>
+								<VBox fx:id="tweetVBox" alignment="CENTER" layoutX="35.0"
+									layoutY="21.0" prefHeight="282.0" prefWidth="466.0"
+									visible="true" />
+								<Pagination fx:id="tweetPagination"
+									prefHeight="364.0" prefWidth="538.0" />
+							</children>
+						</AnchorPane>
+					</content>
+				</Tab>
+				<Tab fx:id="blogTab" text="Blog">
+					<content>
+						<AnchorPane fx:id="tabAnchor" minHeight="0.0"
+							minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+							<children>
+								<VBox fx:id="blogVBox" layoutX="14.0" layoutY="40.0"
+									prefHeight="202.0" prefWidth="510.0"
+									style="-fx-background-color: pink;" visible="false" />
+								<Pagination fx:id="blogPagination" layoutX="12.0"
+									layoutY="12.0" prefHeight="354.0" prefWidth="514.0" />
+							</children>
+						</AnchorPane>
+					</content>
+				</Tab>
+			</tabs>
+		</TabPane>
+	</children>
+</AnchorPane>

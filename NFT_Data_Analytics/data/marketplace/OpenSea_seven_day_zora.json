@@ -1,0 +1,64 @@
+{
+  "marketplaceName": "OpenSea",
+  "createdAt": "12/01/2024",
+  "chain": "zora",
+  "period": "seven_day",
+  "currency": "ETH",
+  "data": [
+    {
+      "id": "Q29sbGVjdGlvblR5cGU6MzA5OTg2OTk=",
+      "logo": "https://i.seadn.io/s/raw/files/03f85182a87b3980d43b698e552370ce.png?w=500&auto=format",
+      "name": "Farcaster: Fennec Fox",
+      "volume": 0.01574399,
+      "volumeChange": -0.11946364653243852,
+      "floorPrice": 0.0015,
+      "floorPriceChange": 0.0,
+      "items": 1,
+      "owners": 10803
+    },
+    {
+      "id": "Q29sbGVjdGlvblR5cGU6MzA5NzE0NDQ=",
+      "logo": "https://i.seadn.io/s/raw/files/eeb781acfa70dc2f1bb23778cdae5960.png?w=500&auto=format",
+      "name": "Zora x Warpcast",
+      "volume": 0.0,
+      "volumeChange": -1.0,
+      "floorPrice": 0.008,
+      "floorPriceChange": 0.0,
+      "items": 1,
+      "owners": 620
+    },
+    {
+      "id": "Q29sbGVjdGlvblR5cGU6MzA3NTU5MDI=",
+      "logo": "https://i.seadn.io/s/raw/files/a5d301b3539dc104445299cb76d72c5a.png?w=500&auto=format",
+      "name": "Nounish Omega Sketch",
+      "volume": 0.0,
+      "volumeChange": 0.0,
+      "floorPrice": 0.0,
+      "floorPriceChange": 0.0,
+      "items": 24,
+      "owners": 12
+    },
+    {
+      "id": "Q29sbGVjdGlvblR5cGU6MzA5OTg5NzQ=",
+      "logo": "https://i.seadn.io/s/raw/files/693774612e4c3a029c254c150f273108.jpg?w=500&auto=format",
+      "name": "STAR",
+      "volume": 0.0,
+      "volumeChange": 0.0,
+      "floorPrice": 0.0,
+      "floorPriceChange": 0.0,
+      "items": 3,
+      "owners": 168
+    },
+    {
+      "id": "Q29sbGVjdGlvblR5cGU6MzEwNTAyMTU=",
+      "logo": "https://i.seadn.io/s/raw/files/f53300441baba5cbe227099235b78855.jpg?w=500&auto=format",
+      "name": "a planet called merkurii",
+      "volume": 0.0,
+      "volumeChange": 0.0,
+      "floorPrice": 0.0,
+      "floorPriceChange": 0.0,
+      "items": 4,
+      "owners": 159
+    }
+  ]
+}
